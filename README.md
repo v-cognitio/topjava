@@ -1,5 +1,5 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1b44d38cc9404a2887021f5b48d6c491)](https://app.codacy.com/gh/v-cognitio/topjava?utm_source=github.com&utm_medium=referral&utm_content=v-cognitio/topjava&utm_campaign=Badge_Grade)
-[![Build Status](https://travis-ci.org/v-cognitio/topjava.svg?branch=master)](https://travis-ci.org/v-cognitio/topjava)
+[![Build Status](https://travis-ci.com/v-cognitio/topjava.svg?branch=master)](https://travis-ci.com/v-cognitio/topjava)
 
 Java Enterprise Online Project 
 ===============================
